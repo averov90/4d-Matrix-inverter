@@ -1,5 +1,5 @@
 # Inverse matrix calculator
-[![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square)](/LICENSE)  [![Version](https://img.shields.io/badge/VERSION-RELEASE%20--%201.0-green?style=flat-square)](https://github.com/averov90/Matrix-inverter/releases)
+[![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square)](/LICENSE)  [![Version](https://img.shields.io/badge/DEMO-EXISTS-green?style=flat-square)](https://github.com/averov90/Matrix-inverter/releases)
 
 Here is a method for searching for coefficients of the inverse matrix with the lowest computational cost, based on a `recursive algorithm` (mathematical definition). This implementation is performed for O(1), non-iteratively - don't worry. The algorithm does not use a heavy division operation, and the number of multiplications is optimized, so this algorithm will be optimal in the problem of finding the ratio between coefficients. The inverse matrix itself can be obtained by dividing all the coefficients by the determinant.
 
